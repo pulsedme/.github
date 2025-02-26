@@ -1,4 +1,4 @@
-## Pulsed App: Instant Polling for Real-Time Engagement**
+## Pulsed App: Instant Polling for Real-Time Engagement
 
 [Pulsed](https://www.pulsed.me/) App is a free iOS and Android polling platform for live feedback. Create instant polls for meetings, events, or classrooms and see real-time results.
 
